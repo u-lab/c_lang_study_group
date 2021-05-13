@@ -5,18 +5,19 @@
 int main(void)
 {
 	int i = 0;
+	double x = 2.2222;
 	char c = 'c';
 	char *s = "Hi!";
 
 	/*書式指定子*/
 	/*%d : 数字*/
 	/*%f : 小数点付き*/
-	printf("%d, %f",i);
+	printf("%d, %f", i, x);
 
 	/*%c : 1文字*/
 	/*%s : 文字列*/
 	printf("%c\n", c);
-	printf("%s\n",s);
+	printf("%s\n", s);
 
 	/*main関数の戻り値*/
 	return 0;
