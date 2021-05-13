@@ -31,7 +31,7 @@ text ->        c_lang1.pdf
 
 source -> example_do_while.c
 example_for.c
-example_while.c 
+example_while.c
 hello_world.c
 
 Website: https://ulab-uu.com/2021/04/28/0428-sutding-clang/
@@ -40,7 +40,7 @@ Website: https://ulab-uu.com/2021/04/28/0428-sutding-clang/
 
 text ->         c_lang2.pdf
 
-source -> example_operator.c  
+source -> example_operator.c
 example_printf.c
 example_sizeof.c
 
